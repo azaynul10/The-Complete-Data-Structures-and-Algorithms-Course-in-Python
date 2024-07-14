@@ -80,6 +80,6 @@ GitHub license
 
 ### Additional Sections
 - **Acknowledgements:** Special thanks to the instructors and contributors who made this course possible.
-- **Contact Information:** For any queries, please reach out to [your email](mailto:youremail@example.com).
+- **Contact Information:** For any queries, please reach out to [email](azaynul3@gmail.com).
 
 This README file provides a comprehensive overview of the course and repository, ensuring that users can easily navigate and utilize the materials provided.
